@@ -328,7 +328,7 @@ a {
 /*start section 2*/
 .section2 {
     margin-top: 5%;
-    background-image: url(/assets/images/8116.png);
+    background-image: url(assets/images/8116.png);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -461,7 +461,7 @@ a {
 /*start section 4*/
 .section4 {
     margin: 5% 0 0 0;
-    background-image: url(/assets/images/8117.png);
+    background-image: url(https://ranemelnoury.github.io/assets/images/8117.png);
     background-size: cover;
     padding: 10px;
 
