@@ -622,6 +622,17 @@ a {
         .card {
             width: 30%;
             border-radius: 10px;
+            border: 1px solid #3CAB90;
+            background-color: #3CAB900D;
+            padding: 35px 30px ;
+            h2{
+                color: #101828;
+                margin: 15px 0;
+            }
+            p{
+                color:#475467;
+                line-height: 24px;
+            }
         }
     }
 }
@@ -1046,7 +1057,6 @@ a {
             span {
                 font-size: 1rem;
                 margin: 5px 0;
-                /* مسافة بين النصوص */
             }
         }
     }
